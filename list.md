@@ -45,8 +45,8 @@
 | BST                                        | http://algs4.cs.princeton.edu/32bst/                                                                   |
 | Josephus                                   | http://www.geeksforgeeks.org/josephus-problem-set-1-a-on-solution/                                     |
 |                                            |                                                                                                        |
-| Divide and Conquer:                        |                                                                                                        |
-| Merge Sort                                 |                                                                                                        |
+| Divide and Conquer:                        |https://en.wikipedia.org/wiki/Divide_and_conquer_algorithms                                                                                                        |
+| Merge Sort                                 |     http://quiz.geeksforgeeks.org/merge-sort/                                                                                                   |
 | Quick Sort                                 |                                                                                                        |
 | Binary Tree Traversals                     |                                                                                                        |
 | Strassen's Matrix Multiplication           |                                                                                                        |
